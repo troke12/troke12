@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is I Made Ochi Darma Putra. From Bali, Indonesia, Currently Working as Network Technical Support in [Universal Broadband](https://universal.net.id), and doing some hobby like Gaming, Editing, and others.
+My Name is I Made Ochi Darma Putra. From Bali, Indonesia, Currently Working as Network Technical Support in [Universal Broadband](https://universal.net.id) Branch Office Bali, and doing some hobby like Gaming, Editing, and others.
 
 ## Contact me
 
