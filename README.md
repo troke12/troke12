@@ -1,21 +1,17 @@
 ### Hi there 👋
 
+My Name is I Made Ochi Darma Putra. From Bali, Indonesia, Currently Working as Network Technical Support in [Universal Broadband](https://universal.net.id), and doing some hobby like Gaming, Editing, and others.
+
+## Contact me
+
+[LinkedIn](https://linkedin.com/in/troke) [Twitter](https://twitter.com/darma_ochi) Discord (`troke.id#0027`)
+
+## Recent Activity
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#4162](https://github.com//ppy/osu-wiki/pull/4162) in [ppy/osu-wiki](https://github.com//ppy/osu-wiki)
 2. 💪 Opened PR [#61](https://github.com//RealistikOsu/RealistikPanel/pull/61) in [RealistikOsu/RealistikPanel](https://github.com//RealistikOsu/RealistikPanel)
 <!--END_SECTION:activity-->
 
-<!--
-**troke12/troke12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
