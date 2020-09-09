@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4162](https://github.com//ppy/osu-wiki/pull/4162) in [ppy/osu-wiki](https://github.com//ppy/osu-wiki)
+2. 💪 Opened PR [#61](https://github.com//RealistikOsu/RealistikPanel/pull/61) in [RealistikOsu/RealistikPanel](https://github.com//RealistikOsu/RealistikPanel)
+<!--END_SECTION:activity-->
 
 <!--
 **troke12/troke12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
