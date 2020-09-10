@@ -11,10 +11,10 @@ My Name is I Made Ocy Darma Putra. From Bali, Indonesia, Currently Working as Ne
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
+1. 💪 Opened PR [#4169](https://github.com//ppy/osu-wiki/pull/4169) in [ppy/osu-wiki](https://github.com//ppy/osu-wiki)
 2. 🗣 Commented on [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
 3. 🗣 Commented on [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
-4. ❗️ Opened issue [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
-5. 🗣 Commented on [#31](https://github.com//Wieku/danser-go/issues/31) in [Wieku/danser-go](https://github.com//Wieku/danser-go)
+4. 🗣 Commented on [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
+5. ❗️ Opened issue [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
 <!--END_SECTION:activity-->
 
