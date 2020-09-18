@@ -11,10 +11,10 @@ My Name is I Made Ocy Darma Putra. From Bali, Indonesia, Currently Working as Ne
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com//alx-xlx/goindex/issues/24) in [alx-xlx/goindex](https://github.com//alx-xlx/goindex)
-2. 🗣 Commented on [#24](https://github.com//alx-xlx/goindex/issues/24) in [alx-xlx/goindex](https://github.com//alx-xlx/goindex)
-3. 💪 Opened PR [#4169](https://github.com//ppy/osu-wiki/pull/4169) in [ppy/osu-wiki](https://github.com//ppy/osu-wiki)
-4. 🗣 Commented on [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
-5. 🗣 Commented on [#6621](https://github.com//ppy/osu-web/issues/6621) in [ppy/osu-web](https://github.com//ppy/osu-web)
+1. 🗣 Commented on [#10184](https://github.com//ppy/osu/issues/10184) in [ppy/osu](https://github.com//ppy/osu)
+2. ❗️ Opened issue [#10184](https://github.com//ppy/osu/issues/10184) in [ppy/osu](https://github.com//ppy/osu)
+3. ❗️ Closed issue [#24](https://github.com//alx-xlx/goindex/issues/24) in [alx-xlx/goindex](https://github.com//alx-xlx/goindex)
+4. 🗣 Commented on [#24](https://github.com//alx-xlx/goindex/issues/24) in [alx-xlx/goindex](https://github.com//alx-xlx/goindex)
+5. 💪 Opened PR [#4169](https://github.com//ppy/osu-wiki/pull/4169) in [ppy/osu-wiki](https://github.com//ppy/osu-wiki)
 <!--END_SECTION:activity-->
 
