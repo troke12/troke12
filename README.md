@@ -11,10 +11,10 @@ My Name is I Made Ocy Darma Putra. From Bali, Indonesia, Currently Working as Ne
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com//osu-datenshi/hanayo/issues/13) in [osu-datenshi/hanayo](https://github.com//osu-datenshi/hanayo)
+1. 🎉 Merged PR [#14](https://github.com//osu-datenshi/hanayo/pull/14) in [osu-datenshi/hanayo](https://github.com//osu-datenshi/hanayo)
 2. 🗣 Commented on [#13](https://github.com//osu-datenshi/hanayo/issues/13) in [osu-datenshi/hanayo](https://github.com//osu-datenshi/hanayo)
 3. 🗣 Commented on [#13](https://github.com//osu-datenshi/hanayo/issues/13) in [osu-datenshi/hanayo](https://github.com//osu-datenshi/hanayo)
-4. 🗣 Commented on [#10184](https://github.com//ppy/osu/issues/10184) in [ppy/osu](https://github.com//ppy/osu)
-5. ❗️ Opened issue [#10184](https://github.com//ppy/osu/issues/10184) in [ppy/osu](https://github.com//ppy/osu)
+4. 🗣 Commented on [#13](https://github.com//osu-datenshi/hanayo/issues/13) in [osu-datenshi/hanayo](https://github.com//osu-datenshi/hanayo)
+5. 🗣 Commented on [#10184](https://github.com//ppy/osu/issues/10184) in [ppy/osu](https://github.com//ppy/osu)
 <!--END_SECTION:activity-->
 
