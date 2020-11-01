@@ -12,9 +12,9 @@ My Name is I Made Ocy Darma Putra. From Bali, Indonesia, Currently Working as Ne
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#397](https://github.com/openmultiplayer/wiki/issues/397) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
-2. 💪 Opened PR [#397](https://github.com/openmultiplayer/wiki/pull/397) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
-3. 🗣 Commented on [#160](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/160) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-4. 🎉 Merged PR [#11](https://github.com/osu-datenshi/yohane/pull/11) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-5. 💪 Opened PR [#11](https://github.com/osu-datenshi/yohane/pull/11) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+2. 🗣 Commented on [#397](https://github.com/openmultiplayer/wiki/issues/397) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
+3. 💪 Opened PR [#397](https://github.com/openmultiplayer/wiki/pull/397) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
+4. 🗣 Commented on [#160](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/160) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+5. 🎉 Merged PR [#11](https://github.com/osu-datenshi/yohane/pull/11) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
 <!--END_SECTION:activity-->
 
