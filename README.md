@@ -11,10 +11,10 @@ My Name is I Made Ocy Darma Putra. From Bali, Indonesia, Currently Working as Ne
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/osu-datenshi/yohane/pull/11) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-2. 💪 Opened PR [#11](https://github.com/osu-datenshi/yohane/pull/11) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-3. 💪 Opened PR [#4385](https://github.com/ppy/osu-wiki/pull/4385) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
-4. 🗣 Commented on [#441](https://github.com/ytmdesktop/ytmdesktop/issues/441) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
-5. 🎉 Merged PR [#133](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/133) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+1. 🗣 Commented on [#160](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/160) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+2. 🎉 Merged PR [#11](https://github.com/osu-datenshi/yohane/pull/11) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+3. 💪 Opened PR [#11](https://github.com/osu-datenshi/yohane/pull/11) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+4. 💪 Opened PR [#4385](https://github.com/ppy/osu-wiki/pull/4385) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+5. 🗣 Commented on [#441](https://github.com/ytmdesktop/ytmdesktop/issues/441) in [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
 <!--END_SECTION:activity-->
 
