@@ -11,10 +11,10 @@ My Name is I Made Ocy Darma Putra. From Bali, Indonesia, Currently Working as Ne
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/160) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-2. 🗣 Commented on [#397](https://github.com/openmultiplayer/wiki/issues/397) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
-3. 🗣 Commented on [#397](https://github.com/openmultiplayer/wiki/issues/397) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
-4. 💪 Opened PR [#397](https://github.com/openmultiplayer/wiki/pull/397) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
-5. 🗣 Commented on [#160](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/160) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+1. 💪 Opened PR [#401](https://github.com/openmultiplayer/wiki/pull/401) in [openmultiplayer/wiki](https://github.com/openmultiplayer/wiki)
+2. 🎉 Merged PR [#2](https://github.com/troke12/wiki/pull/2) in [troke12/wiki](https://github.com/troke12/wiki)
+3. 💪 Opened PR [#2](https://github.com/troke12/wiki/pull/2) in [troke12/wiki](https://github.com/troke12/wiki)
+4. 🎉 Merged PR [#1](https://github.com/troke12/wiki/pull/1) in [troke12/wiki](https://github.com/troke12/wiki)
+5. 💪 Opened PR [#1](https://github.com/troke12/wiki/pull/1) in [troke12/wiki](https://github.com/troke12/wiki)
 <!--END_SECTION:activity-->
 
