@@ -4,7 +4,7 @@ My Name is I Made Ocy Darma Putra. From Bali, Indonesia, Currently Working as Ne
 
 ## Contact me
 
-[LinkedIn](https://linkedin.com/in/troke) [Twitter](https://twitter.com/darma_ochi) Discord (`troke.id#0027`)
+[LinkedIn](https://linkedin.com/in/troke) | [Twitter](https://twitter.com/darma_ochi) | [Discord](https://link.troke.id/discord) | <a href="mailto:ochi@troke.id">Email</a> 
 
 ## Recent Activity
 
