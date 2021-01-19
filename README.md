@@ -13,10 +13,10 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troke12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/osu-datenshi/yohane/pull/18) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-2. 🗣 Commented on [#18](https://github.com/osu-datenshi/yohane/issues/18) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-3. ❗️ Closed issue [#3361](https://github.com/acmesh-official/acme.sh/issues/3361) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-4. 🗣 Commented on [#3361](https://github.com/acmesh-official/acme.sh/issues/3361) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-5. ❗️ Opened issue [#3361](https://github.com/acmesh-official/acme.sh/issues/3361) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
+1. 🎉 Merged PR [#19](https://github.com/osu-datenshi/yohane/pull/19) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+2. 🗣 Commented on [#19](https://github.com/osu-datenshi/yohane/issues/19) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+3. 🗣 Commented on [#19](https://github.com/osu-datenshi/yohane/issues/19) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+4. 🎉 Merged PR [#20](https://github.com/osu-datenshi/yohane/pull/20) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+5. 💪 Opened PR [#19](https://github.com/osu-datenshi/yohane/pull/19) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
 <!--END_SECTION:activity-->
 
