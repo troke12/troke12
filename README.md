@@ -13,10 +13,10 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troke12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/osu-datenshi/yohane/pull/21) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-2. 🎉 Merged PR [#8](https://github.com/osu-datenshi/website-docs/pull/8) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-3. ❗️ Opened issue [#17](https://github.com/osu-datenshi/hanayo/issues/17) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-4. 🎉 Merged PR [#19](https://github.com/osu-datenshi/yohane/pull/19) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-5. 🗣 Commented on [#19](https://github.com/osu-datenshi/yohane/issues/19) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+1. 💪 Opened PR [#3](https://github.com/osu-datenshi/dap/pull/3) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
+2. 🎉 Merged PR [#21](https://github.com/osu-datenshi/yohane/pull/21) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+3. 🎉 Merged PR [#8](https://github.com/osu-datenshi/website-docs/pull/8) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+4. ❗️ Opened issue [#17](https://github.com/osu-datenshi/hanayo/issues/17) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+5. 🎉 Merged PR [#19](https://github.com/osu-datenshi/yohane/pull/19) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
 <!--END_SECTION:activity-->
 
