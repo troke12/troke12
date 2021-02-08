@@ -13,10 +13,10 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troke12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7152](https://github.com/ppy/osu-web/issues/7152) in [ppy/osu-web](https://github.com/ppy/osu-web)
-2. 💪 Opened PR [#3](https://github.com/osu-datenshi/dap/pull/3) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
-3. 🎉 Merged PR [#21](https://github.com/osu-datenshi/yohane/pull/21) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-4. 🎉 Merged PR [#8](https://github.com/osu-datenshi/website-docs/pull/8) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-5. ❗️ Opened issue [#17](https://github.com/osu-datenshi/hanayo/issues/17) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+1. 🗣 Commented on [#4926](https://github.com/ppy/osu-wiki/issues/4926) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+2. ❌ Closed PR [#4926](https://github.com/ppy/osu-wiki/pull/4926) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+3. 💪 Opened PR [#4926](https://github.com/ppy/osu-wiki/pull/4926) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+4. 🗣 Commented on [#7152](https://github.com/ppy/osu-web/issues/7152) in [ppy/osu-web](https://github.com/ppy/osu-web)
+5. 💪 Opened PR [#3](https://github.com/osu-datenshi/dap/pull/3) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
 <!--END_SECTION:activity-->
 
