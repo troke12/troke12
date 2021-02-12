@@ -8,12 +8,6 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 
 ## Recent Activity
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
-
-[![troke12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=troke12&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troke12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
 2. 🗣 Commented on [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
@@ -21,4 +15,8 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 4. ❗️ Opened issue [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
 5. 🗣 Commented on [#4926](https://github.com/ppy/osu-wiki/issues/4926) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
 <!--END_SECTION:activity-->
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
+
+[![troke12's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=troke12&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
