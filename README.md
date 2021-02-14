@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-2. 🗣 Commented on [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-3. 🎉 Merged PR [#3](https://github.com/osu-datenshi/dap/pull/3) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
-4. ❗️ Opened issue [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-5. 🗣 Commented on [#4926](https://github.com/ppy/osu-wiki/issues/4926) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki)
+1. 🎉 Merged PR [#22](https://github.com/osu-datenshi/yohane/pull/22) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+2. 💪 Opened PR [#22](https://github.com/osu-datenshi/yohane/pull/22) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+3. ❗️ Closed issue [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+4. 🗣 Commented on [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+5. 🎉 Merged PR [#3](https://github.com/osu-datenshi/dap/pull/3) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
 <!--END_SECTION:activity-->
 
 ## Status
