@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/osu-datenshi/dap/issues/4) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
-2. 🎉 Merged PR [#22](https://github.com/osu-datenshi/yohane/pull/22) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-3. 💪 Opened PR [#22](https://github.com/osu-datenshi/yohane/pull/22) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-4. ❗️ Closed issue [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-5. 🗣 Commented on [#18](https://github.com/osu-datenshi/hanayo/issues/18) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+1. ❗️ Opened issue [#15](https://github.com/osu-datenshi/lets/issues/15) in [osu-datenshi/lets](https://github.com/osu-datenshi/lets)
+2. 🗣 Commented on [#2](https://github.com/osu-datenshi/pep.py/issues/2) in [osu-datenshi/pep.py](https://github.com/osu-datenshi/pep.py)
+3. ❗️ Opened issue [#4](https://github.com/osu-datenshi/dap/issues/4) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
+4. 🎉 Merged PR [#22](https://github.com/osu-datenshi/yohane/pull/22) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+5. 💪 Opened PR [#22](https://github.com/osu-datenshi/yohane/pull/22) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
 <!--END_SECTION:activity-->
 
 ## Status
