@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/osu-datenshi/yohane/issues/23) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-2. ❗️ Opened issue [#15](https://github.com/osu-datenshi/lets/issues/15) in [osu-datenshi/lets](https://github.com/osu-datenshi/lets)
-3. 🗣 Commented on [#2](https://github.com/osu-datenshi/pep.py/issues/2) in [osu-datenshi/pep.py](https://github.com/osu-datenshi/pep.py)
-4. ❗️ Opened issue [#4](https://github.com/osu-datenshi/dap/issues/4) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
-5. 🎉 Merged PR [#22](https://github.com/osu-datenshi/yohane/pull/22) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+1. ❗️ Opened issue [#7248](https://github.com/ppy/osu-web/issues/7248) in [ppy/osu-web](https://github.com/ppy/osu-web)
+2. ❗️ Opened issue [#23](https://github.com/osu-datenshi/yohane/issues/23) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+3. ❗️ Opened issue [#15](https://github.com/osu-datenshi/lets/issues/15) in [osu-datenshi/lets](https://github.com/osu-datenshi/lets)
+4. 🗣 Commented on [#2](https://github.com/osu-datenshi/pep.py/issues/2) in [osu-datenshi/pep.py](https://github.com/osu-datenshi/pep.py)
+5. ❗️ Opened issue [#4](https://github.com/osu-datenshi/dap/issues/4) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
 <!--END_SECTION:activity-->
 
 ## Status
