@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/osu-datenshi/hanayo/issues/19) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-2. 🗣 Commented on [#7248](https://github.com/ppy/osu-web/issues/7248) in [ppy/osu-web](https://github.com/ppy/osu-web)
-3. ❗️ Opened issue [#7248](https://github.com/ppy/osu-web/issues/7248) in [ppy/osu-web](https://github.com/ppy/osu-web)
-4. ❗️ Opened issue [#23](https://github.com/osu-datenshi/yohane/issues/23) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-5. ❗️ Opened issue [#15](https://github.com/osu-datenshi/lets/issues/15) in [osu-datenshi/lets](https://github.com/osu-datenshi/lets)
+1. ❗️ Opened issue [#2](https://github.com/osu-datenshi/api/issues/2) in [osu-datenshi/api](https://github.com/osu-datenshi/api)
+2. ❗️ Opened issue [#19](https://github.com/osu-datenshi/hanayo/issues/19) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+3. 🗣 Commented on [#7248](https://github.com/ppy/osu-web/issues/7248) in [ppy/osu-web](https://github.com/ppy/osu-web)
+4. ❗️ Opened issue [#7248](https://github.com/ppy/osu-web/issues/7248) in [ppy/osu-web](https://github.com/ppy/osu-web)
+5. ❗️ Opened issue [#23](https://github.com/osu-datenshi/yohane/issues/23) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
 <!--END_SECTION:activity-->
 
 ## Status
