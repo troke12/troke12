@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#56](https://github.com/BenMenking/routeros-api/issues/56) in [BenMenking/routeros-api](https://github.com/BenMenking/routeros-api)
-2. 💪 Opened PR [#26](https://github.com/osu-datenshi/yohane/pull/26) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-3. 🗣 Commented on [#54](https://github.com/ivaaaan/smug/issues/54) in [ivaaaan/smug](https://github.com/ivaaaan/smug)
-4. ❗️ Opened issue [#54](https://github.com/ivaaaan/smug/issues/54) in [ivaaaan/smug](https://github.com/ivaaaan/smug)
-5. 🗣 Commented on [#7](https://github.com/osu-datenshi/pep.py/issues/7) in [osu-datenshi/pep.py](https://github.com/osu-datenshi/pep.py)
+1. ❗️ Closed issue [#56](https://github.com/BenMenking/routeros-api/issues/56) in [BenMenking/routeros-api](https://github.com/BenMenking/routeros-api)
+2. 🗣 Commented on [#56](https://github.com/BenMenking/routeros-api/issues/56) in [BenMenking/routeros-api](https://github.com/BenMenking/routeros-api)
+3. ❗️ Opened issue [#56](https://github.com/BenMenking/routeros-api/issues/56) in [BenMenking/routeros-api](https://github.com/BenMenking/routeros-api)
+4. 💪 Opened PR [#26](https://github.com/osu-datenshi/yohane/pull/26) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+5. 🗣 Commented on [#54](https://github.com/ivaaaan/smug/issues/54) in [ivaaaan/smug](https://github.com/ivaaaan/smug)
 <!--END_SECTION:activity-->
 
 ## Status
