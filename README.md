@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/osu-datenshi/yohane/pull/26) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-2. 🎉 Merged PR [#1](https://github.com/troke12/BlueMi/pull/1) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
-3. 💪 Opened PR [#1](https://github.com/troke12/BlueMi/pull/1) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
-4. ❗️ Closed issue [#56](https://github.com/BenMenking/routeros-api/issues/56) in [BenMenking/routeros-api](https://github.com/BenMenking/routeros-api)
-5. 🗣 Commented on [#56](https://github.com/BenMenking/routeros-api/issues/56) in [BenMenking/routeros-api](https://github.com/BenMenking/routeros-api)
+1. 🎉 Merged PR [#9](https://github.com/osu-datenshi/website-docs/pull/9) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+2. 🎉 Merged PR [#26](https://github.com/osu-datenshi/yohane/pull/26) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+3. 🎉 Merged PR [#1](https://github.com/troke12/BlueMi/pull/1) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
+4. 💪 Opened PR [#1](https://github.com/troke12/BlueMi/pull/1) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
+5. ❗️ Closed issue [#56](https://github.com/BenMenking/routeros-api/issues/56) in [BenMenking/routeros-api](https://github.com/BenMenking/routeros-api)
 <!--END_SECTION:activity-->
 
 ## Status
