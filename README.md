@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/osu-datenshi/website-docs/issues/10) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-2. 🎉 Merged PR [#9](https://github.com/osu-datenshi/website-docs/pull/9) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-3. 🎉 Merged PR [#26](https://github.com/osu-datenshi/yohane/pull/26) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-4. 🎉 Merged PR [#1](https://github.com/troke12/BlueMi/pull/1) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
-5. 💪 Opened PR [#1](https://github.com/troke12/BlueMi/pull/1) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
+1. 🗣 Commented on [#207](https://github.com/ppy/osu-stable-issues/issues/207) in [ppy/osu-stable-issues](https://github.com/ppy/osu-stable-issues)
+2. 🗣 Commented on [#10](https://github.com/osu-datenshi/website-docs/issues/10) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+3. 🎉 Merged PR [#9](https://github.com/osu-datenshi/website-docs/pull/9) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+4. 🎉 Merged PR [#26](https://github.com/osu-datenshi/yohane/pull/26) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+5. 🎉 Merged PR [#1](https://github.com/troke12/BlueMi/pull/1) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
 <!--END_SECTION:activity-->
 
 ## Status
