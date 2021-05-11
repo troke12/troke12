@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/osu-datenshi/website-docs/pull/12) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-2. 🎉 Merged PR [#11](https://github.com/osu-datenshi/website-docs/pull/11) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-3. 🗣 Commented on [#11](https://github.com/osu-datenshi/website-docs/issues/11) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-4. 💪 Opened PR [#11](https://github.com/osu-datenshi/website-docs/pull/11) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-5. 🗣 Commented on [#207](https://github.com/ppy/osu-stable-issues/issues/207) in [ppy/osu-stable-issues](https://github.com/ppy/osu-stable-issues)
+1. 🗣 Commented on [#825](https://github.com/golangci/golangci-lint/issues/825) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+2. 🎉 Merged PR [#12](https://github.com/osu-datenshi/website-docs/pull/12) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+3. 🎉 Merged PR [#11](https://github.com/osu-datenshi/website-docs/pull/11) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+4. 🗣 Commented on [#11](https://github.com/osu-datenshi/website-docs/issues/11) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+5. 💪 Opened PR [#11](https://github.com/osu-datenshi/website-docs/pull/11) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
 <!--END_SECTION:activity-->
 
 ## Status
