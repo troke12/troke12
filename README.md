@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/osu-datenshi/hanayo/pull/21) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-2. 💪 Opened PR [#21](https://github.com/osu-datenshi/hanayo/pull/21) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
-3. 🗣 Commented on [#825](https://github.com/golangci/golangci-lint/issues/825) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-4. 🗣 Commented on [#825](https://github.com/golangci/golangci-lint/issues/825) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
-5. 🎉 Merged PR [#12](https://github.com/osu-datenshi/website-docs/pull/12) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+1. 🗣 Commented on [#1](https://github.com/dominik-korsa/discord-integration/issues/1) in [dominik-korsa/discord-integration](https://github.com/dominik-korsa/discord-integration)
+2. ❗️ Opened issue [#1](https://github.com/dominik-korsa/discord-integration/issues/1) in [dominik-korsa/discord-integration](https://github.com/dominik-korsa/discord-integration)
+3. 🎉 Merged PR [#21](https://github.com/osu-datenshi/hanayo/pull/21) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+4. 💪 Opened PR [#21](https://github.com/osu-datenshi/hanayo/pull/21) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+5. 🗣 Commented on [#825](https://github.com/golangci/golangci-lint/issues/825) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
 <!--END_SECTION:activity-->
 
 ## Status
