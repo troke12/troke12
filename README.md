@@ -9,11 +9,11 @@ My Name is I Made Ocy Darma Putra, 20. From Bali, Indonesia, Currently Working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/osu-datenshi/api/issues/2) in [osu-datenshi/api](https://github.com/osu-datenshi/api)
-2. ❗️ Opened issue [#2338](https://github.com/AuthMe/AuthMeReloaded/issues/2338) in [AuthMe/AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded)
-3. ❗️ Opened issue [#776](https://github.com/FabioZumbi12/RedProtect/issues/776) in [FabioZumbi12/RedProtect](https://github.com/FabioZumbi12/RedProtect)
-4. 🗣 Commented on [#1](https://github.com/dominik-korsa/discord-integration/issues/1) in [dominik-korsa/discord-integration](https://github.com/dominik-korsa/discord-integration)
-5. ❗️ Opened issue [#1](https://github.com/dominik-korsa/discord-integration/issues/1) in [dominik-korsa/discord-integration](https://github.com/dominik-korsa/discord-integration)
+1. 🎉 Merged PR [#3](https://github.com/osu-datenshi/minecraft-website/pull/3) in [osu-datenshi/minecraft-website](https://github.com/osu-datenshi/minecraft-website)
+2. 💪 Opened PR [#3](https://github.com/osu-datenshi/minecraft-website/pull/3) in [osu-datenshi/minecraft-website](https://github.com/osu-datenshi/minecraft-website)
+3. 🎉 Merged PR [#2](https://github.com/osu-datenshi/minecraft-website/pull/2) in [osu-datenshi/minecraft-website](https://github.com/osu-datenshi/minecraft-website)
+4. 💪 Opened PR [#2](https://github.com/osu-datenshi/minecraft-website/pull/2) in [osu-datenshi/minecraft-website](https://github.com/osu-datenshi/minecraft-website)
+5. 🎉 Merged PR [#1](https://github.com/osu-datenshi/minecraft-website/pull/1) in [osu-datenshi/minecraft-website](https://github.com/osu-datenshi/minecraft-website)
 <!--END_SECTION:activity-->
 
 ## Status
