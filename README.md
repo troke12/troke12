@@ -9,11 +9,11 @@ My name is I Made Ocy Darma Putra, 20. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/osu-datenshi/yohane/pull/27) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-2. 🎉 Merged PR [#22](https://github.com/osu-datenshi/hanamaru/pull/22) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-3. 💪 Opened PR [#22](https://github.com/osu-datenshi/hanamaru/pull/22) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-4. 🎉 Merged PR [#21](https://github.com/osu-datenshi/hanamaru/pull/21) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-5. 💪 Opened PR [#21](https://github.com/osu-datenshi/hanamaru/pull/21) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+1. ❗️ Closed issue [#25](https://github.com/osu-datenshi/yohane/issues/25) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+2. 🗣 Commented on [#25](https://github.com/osu-datenshi/yohane/issues/25) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+3. 🗣 Commented on [#72](https://github.com/thiagorossener/jekflix-template/issues/72) in [thiagorossener/jekflix-template](https://github.com/thiagorossener/jekflix-template)
+4. 🎉 Merged PR [#27](https://github.com/osu-datenshi/yohane/pull/27) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+5. 🎉 Merged PR [#22](https://github.com/osu-datenshi/hanamaru/pull/22) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
 <!--END_SECTION:activity-->
 
 ## Status
