@@ -9,11 +9,11 @@ My name is I Made Ocy Darma Putra, 20. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/osu-datenshi/yohane/issues/29) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-2. ❗️ Closed issue [#25](https://github.com/osu-datenshi/yohane/issues/25) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-3. 🗣 Commented on [#25](https://github.com/osu-datenshi/yohane/issues/25) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-4. 🗣 Commented on [#72](https://github.com/thiagorossener/jekflix-template/issues/72) in [thiagorossener/jekflix-template](https://github.com/thiagorossener/jekflix-template)
-5. 🎉 Merged PR [#27](https://github.com/osu-datenshi/yohane/pull/27) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+1. 🎉 Merged PR [#23](https://github.com/osu-datenshi/hanamaru/pull/23) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+2. 💪 Opened PR [#23](https://github.com/osu-datenshi/hanamaru/pull/23) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+3. ❗️ Opened issue [#29](https://github.com/osu-datenshi/yohane/issues/29) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+4. ❗️ Closed issue [#25](https://github.com/osu-datenshi/yohane/issues/25) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+5. 🗣 Commented on [#25](https://github.com/osu-datenshi/yohane/issues/25) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
 <!--END_SECTION:activity-->
 
 ## Status
