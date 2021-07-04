@@ -19,3 +19,5 @@ My name is I Made Ocy Darma Putra, 20. from Bali, Indonesia, currently working a
 ## Status
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=troke12&show_icons=true)](https://github.com/troke12)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=troke12)](https://github.com/LordDashMe/github-contribution-stats/)
