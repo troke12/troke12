@@ -9,11 +9,11 @@ My name is I Made Ocy Darma Putra, 20. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/osu-datenshi/hanamaru/pull/59) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-2. 💪 Opened PR [#32](https://github.com/Azuriom/Plugin-Shop/pull/32) in [Azuriom/Plugin-Shop](https://github.com/Azuriom/Plugin-Shop)
-3. 💪 Opened PR [#59](https://github.com/osu-datenshi/hanamaru/pull/59) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-4. 🎉 Merged PR [#58](https://github.com/osu-datenshi/hanamaru/pull/58) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-5. 💪 Opened PR [#58](https://github.com/osu-datenshi/hanamaru/pull/58) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+1. 🎉 Merged PR [#60](https://github.com/osu-datenshi/hanamaru/pull/60) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+2. 💪 Opened PR [#60](https://github.com/osu-datenshi/hanamaru/pull/60) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+3. 🎉 Merged PR [#59](https://github.com/osu-datenshi/hanamaru/pull/59) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+4. 💪 Opened PR [#32](https://github.com/Azuriom/Plugin-Shop/pull/32) in [Azuriom/Plugin-Shop](https://github.com/Azuriom/Plugin-Shop)
+5. 💪 Opened PR [#59](https://github.com/osu-datenshi/hanamaru/pull/59) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
 <!--END_SECTION:activity-->
 
 ## Status
