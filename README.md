@@ -4,7 +4,7 @@ My name is I Made Ocy Darma Putra, 20. from Bali, Indonesia, currently working a
 
 ## Contact me
 
-[LinkedIn](https://linkedin.com/in/troke) | [Twitter](https://twitter.com/darma_ochi) | [Discord](https://link.troke.id/discord) | <a href="mailto:ochi@troke.id">Email</a> 
+[LinkedIn](https://linkedin.com/in/troke) | [Twitter](https://twitter.com/darma_ochi) | [Discord](https://link.troke.id/discord) | <a href="mailto:ochi@troke.id">Email</a> | [Keybase](https://keybase.io/troke)
 
 ## Recent Activity
 
