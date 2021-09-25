@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is I Made Ocy Darma Putra, 20. from Bali, Indonesia, currently working as Network Technical Support in [Universal Broadband](https://universal.net.id) branch office Bali, and doing some hobby like gaming, editing, and others.
+My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working as Network Technical Support in [Universal Broadband](https://universal.net.id) branch office Bali, and doing some hobby like gaming, editing, and others.
 
 ## Contact me
 
