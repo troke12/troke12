@@ -9,11 +9,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/osu-datenshi/hanamaru/pull/66) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-2. 🗣 Commented on [#20](https://github.com/thedutchruben/TDRPlaytime/issues/20) in [thedutchruben/TDRPlaytime](https://github.com/thedutchruben/TDRPlaytime)
-3. ❗️ Opened issue [#20](https://github.com/thedutchruben/TDRPlaytime/issues/20) in [thedutchruben/TDRPlaytime](https://github.com/thedutchruben/TDRPlaytime)
-4. ❌ Closed PR [#1](https://github.com/osu-datenshi/datenshi-seasonal/pull/1) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
-5. 💪 Opened PR [#1](https://github.com/osu-datenshi/datenshi-seasonal/pull/1) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
+1. 🎉 Merged PR [#66](https://github.com/osu-datenshi/hanamaru/pull/66) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+2. 💪 Opened PR [#66](https://github.com/osu-datenshi/hanamaru/pull/66) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+3. 🗣 Commented on [#20](https://github.com/thedutchruben/TDRPlaytime/issues/20) in [thedutchruben/TDRPlaytime](https://github.com/thedutchruben/TDRPlaytime)
+4. ❗️ Opened issue [#20](https://github.com/thedutchruben/TDRPlaytime/issues/20) in [thedutchruben/TDRPlaytime](https://github.com/thedutchruben/TDRPlaytime)
+5. ❌ Closed PR [#1](https://github.com/osu-datenshi/datenshi-seasonal/pull/1) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
 <!--END_SECTION:activity-->
 
 ## Status
