@@ -9,11 +9,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/osu-datenshi/datenshi-seasonal/pull/1) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
-2. 💪 Opened PR [#1](https://github.com/osu-datenshi/datenshi-seasonal/pull/1) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
-3. ❗️ Closed issue [#29](https://github.com/osu-datenshi/yohane/issues/29) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-4. 🗣 Commented on [#29](https://github.com/osu-datenshi/yohane/issues/29) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
-5. 🎉 Merged PR [#65](https://github.com/osu-datenshi/hanamaru/pull/65) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+1. ❗️ Opened issue [#20](https://github.com/thedutchruben/TDRPlaytime/issues/20) in [thedutchruben/TDRPlaytime](https://github.com/thedutchruben/TDRPlaytime)
+2. ❌ Closed PR [#1](https://github.com/osu-datenshi/datenshi-seasonal/pull/1) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
+3. 💪 Opened PR [#1](https://github.com/osu-datenshi/datenshi-seasonal/pull/1) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
+4. ❗️ Closed issue [#29](https://github.com/osu-datenshi/yohane/issues/29) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
+5. 🗣 Commented on [#29](https://github.com/osu-datenshi/yohane/issues/29) in [osu-datenshi/yohane](https://github.com/osu-datenshi/yohane)
 <!--END_SECTION:activity-->
 
 ## Status
