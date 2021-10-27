@@ -9,11 +9,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/osu-datenshi/website-docs/pull/17) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-2. 🗣 Commented on [#207](https://github.com/ppy/osu-stable-issues/issues/207) in [ppy/osu-stable-issues](https://github.com/ppy/osu-stable-issues)
-3. 🎉 Merged PR [#15](https://github.com/osu-datenshi/website-docs/pull/15) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
-4. 🎉 Merged PR [#72](https://github.com/osu-datenshi/hanamaru/pull/72) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-5. 💪 Opened PR [#72](https://github.com/osu-datenshi/hanamaru/pull/72) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+1. 🎉 Merged PR [#73](https://github.com/osu-datenshi/hanamaru/pull/73) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+2. 🎉 Merged PR [#17](https://github.com/osu-datenshi/website-docs/pull/17) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+3. 🗣 Commented on [#207](https://github.com/ppy/osu-stable-issues/issues/207) in [ppy/osu-stable-issues](https://github.com/ppy/osu-stable-issues)
+4. 🎉 Merged PR [#15](https://github.com/osu-datenshi/website-docs/pull/15) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+5. 🎉 Merged PR [#72](https://github.com/osu-datenshi/hanamaru/pull/72) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
 <!--END_SECTION:activity-->
 
 ## Status
