@@ -1,3 +1,5 @@
+![troke](https://cardivo.vercel.app/api?name=I%20Made%20Ocy%20Darma%20Putra&description=Just%20pull-stack%20developer&image=https://avatars.githubusercontent.com/u/10250068?v=4&backgroundColor=%23DE834D)
+
 ### Hi there 👋
 
 My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working as Network Technical Support in [Universal Broadband](https://universal.net.id) branch office Bali, and doing some hobby like gaming, editing, and others.
