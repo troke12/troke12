@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/osu-datenshi/datenshi-seasonal/pull/3) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
-2. 🎉 Merged PR [#2](https://github.com/osu-datenshi/report/pull/2) in [osu-datenshi/report](https://github.com/osu-datenshi/report)
-3. 🎉 Merged PR [#1](https://github.com/osu-datenshi/report/pull/1) in [osu-datenshi/report](https://github.com/osu-datenshi/report)
-4. 🎉 Merged PR [#76](https://github.com/osu-datenshi/hanamaru/pull/76) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-5. 💪 Opened PR [#76](https://github.com/osu-datenshi/hanamaru/pull/76) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+1. 🎉 Merged PR [#77](https://github.com/osu-datenshi/hanamaru/pull/77) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+2. 💪 Opened PR [#3](https://github.com/osu-datenshi/datenshi-seasonal/pull/3) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
+3. 🎉 Merged PR [#2](https://github.com/osu-datenshi/report/pull/2) in [osu-datenshi/report](https://github.com/osu-datenshi/report)
+4. 🎉 Merged PR [#1](https://github.com/osu-datenshi/report/pull/1) in [osu-datenshi/report](https://github.com/osu-datenshi/report)
+5. 🎉 Merged PR [#76](https://github.com/osu-datenshi/hanamaru/pull/76) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
 <!--END_SECTION:activity-->
 
 ## Status
