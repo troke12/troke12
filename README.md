@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/osu-datenshi/dap/pull/9) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
-2. 🎉 Merged PR [#3](https://github.com/osu-datenshi/datenshi-seasonal/pull/3) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
-3. 🗣 Commented on [#3](https://github.com/osu-datenshi/datenshi-seasonal/issues/3) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
+1. 🎉 Merged PR [#9](https://github.com/osu-datenshi/dap/pull/9) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
+2. 💪 Opened PR [#9](https://github.com/osu-datenshi/dap/pull/9) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
+3. 🎉 Merged PR [#3](https://github.com/osu-datenshi/datenshi-seasonal/pull/3) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
 4. 🗣 Commented on [#3](https://github.com/osu-datenshi/datenshi-seasonal/issues/3) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
-5. 🗣 Commented on [#22](https://github.com/osu-datenshi/website-docs/issues/22) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+5. 🗣 Commented on [#3](https://github.com/osu-datenshi/datenshi-seasonal/issues/3) in [osu-datenshi/datenshi-seasonal](https://github.com/osu-datenshi/datenshi-seasonal)
 <!--END_SECTION:activity-->
 
 ## Status
