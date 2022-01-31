@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/troke12/osu-server-list/pull/1) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-2. 🗣 Commented on [#1](https://github.com/troke12/osu-server-list/issues/1) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-3. ❗️ Opened issue [#8566](https://github.com/ppy/osu-web/issues/8566) in [ppy/osu-web](https://github.com/ppy/osu-web)
-4. ❗️ Closed issue [#199](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/199) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-5. 🎉 Merged PR [#201](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/201) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+1. 🎉 Merged PR [#2](https://github.com/troke12/osu-server-list/pull/2) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+2. 💪 Opened PR [#2](https://github.com/troke12/osu-server-list/pull/2) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+3. 🎉 Merged PR [#1](https://github.com/troke12/osu-server-list/pull/1) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+4. 🗣 Commented on [#1](https://github.com/troke12/osu-server-list/issues/1) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+5. ❗️ Opened issue [#8566](https://github.com/ppy/osu-web/issues/8566) in [ppy/osu-web](https://github.com/ppy/osu-web)
 <!--END_SECTION:activity-->
 
 ## Status
