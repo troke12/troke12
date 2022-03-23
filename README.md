@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/osu-datenshi/hanamaru/pull/95) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-2. 💪 Opened PR [#95](https://github.com/osu-datenshi/hanamaru/pull/95) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-3. 🎉 Merged PR [#94](https://github.com/osu-datenshi/hanamaru/pull/94) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
-4. 🎉 Merged PR [#4](https://github.com/troke12/osu-server-list/pull/4) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-5. 🎉 Merged PR [#24](https://github.com/osu-datenshi/website-docs/pull/24) in [osu-datenshi/website-docs](https://github.com/osu-datenshi/website-docs)
+1. 🎉 Merged PR [#96](https://github.com/osu-datenshi/hanamaru/pull/96) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+2. 💪 Opened PR [#96](https://github.com/osu-datenshi/hanamaru/pull/96) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+3. 🎉 Merged PR [#95](https://github.com/osu-datenshi/hanamaru/pull/95) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+4. 💪 Opened PR [#95](https://github.com/osu-datenshi/hanamaru/pull/95) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+5. 🎉 Merged PR [#94](https://github.com/osu-datenshi/hanamaru/pull/94) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
 <!--END_SECTION:activity-->
 
 ## Status
