@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/ProgrammerZamanNow/qna/issues/21) in [ProgrammerZamanNow/qna](https://github.com/ProgrammerZamanNow/qna)
-2. 🎉 Merged PR [#6](https://github.com/troke12/osu-server-list/pull/6) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-3. 💪 Opened PR [#49](https://github.com/kiwec/osu-ranked-lobbies/pull/49) in [kiwec/osu-ranked-lobbies](https://github.com/kiwec/osu-ranked-lobbies)
-4. 🎉 Merged PR [#5](https://github.com/troke12/osu-server-list/pull/5) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-5. 🎉 Merged PR [#96](https://github.com/osu-datenshi/hanamaru/pull/96) in [osu-datenshi/hanamaru](https://github.com/osu-datenshi/hanamaru)
+1. 🎉 Merged PR [#35](https://github.com/osu-datenshi/vinse/pull/35) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
+2. 🎉 Merged PR [#34](https://github.com/osu-datenshi/vinse/pull/34) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
+3. 🎉 Merged PR [#32](https://github.com/osu-datenshi/vinse/pull/32) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
+4. 🎉 Merged PR [#30](https://github.com/osu-datenshi/vinse/pull/30) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
+5. 🎉 Merged PR [#29](https://github.com/osu-datenshi/vinse/pull/29) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
 <!--END_SECTION:activity-->
 
 ## Status
