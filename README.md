@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/osu-datenshi/vinse/pull/35) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
-2. 🎉 Merged PR [#34](https://github.com/osu-datenshi/vinse/pull/34) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
-3. 🎉 Merged PR [#32](https://github.com/osu-datenshi/vinse/pull/32) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
-4. 🎉 Merged PR [#30](https://github.com/osu-datenshi/vinse/pull/30) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
-5. 🎉 Merged PR [#29](https://github.com/osu-datenshi/vinse/pull/29) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
+1. ❗️ Closed issue [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+2. 🗣 Commented on [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+3. ❗️ Closed issue [#3](https://github.com/osu-datenshi/docs/issues/3) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+4. ❗️ Closed issue [#2](https://github.com/osu-datenshi/docs/issues/2) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+5. 🎉 Merged PR [#35](https://github.com/osu-datenshi/vinse/pull/35) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
 <!--END_SECTION:activity-->
 
 ## Status
