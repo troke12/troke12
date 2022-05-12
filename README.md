@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
-2. 🗣 Commented on [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
-3. ❗️ Closed issue [#3](https://github.com/osu-datenshi/docs/issues/3) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
-4. ❗️ Closed issue [#2](https://github.com/osu-datenshi/docs/issues/2) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
-5. 🎉 Merged PR [#35](https://github.com/osu-datenshi/vinse/pull/35) in [osu-datenshi/vinse](https://github.com/osu-datenshi/vinse)
+1. 🗣 Commented on [#42](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/42) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+2. ❗️ Closed issue [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+3. 🗣 Commented on [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+4. ❗️ Closed issue [#3](https://github.com/osu-datenshi/docs/issues/3) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+5. ❗️ Closed issue [#2](https://github.com/osu-datenshi/docs/issues/2) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
 <!--END_SECTION:activity-->
 
 ## Status
