@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/troke12/osu-server-list/pull/7) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-2. 🗣 Commented on [#7](https://github.com/troke12/osu-server-list/issues/7) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-3. 🗣 Commented on [#42](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/42) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
-4. ❗️ Closed issue [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
-5. 🗣 Commented on [#1](https://github.com/osu-datenshi/docs/issues/1) in [osu-datenshi/docs](https://github.com/osu-datenshi/docs)
+1. 🎉 Merged PR [#8](https://github.com/troke12/osu-server-list/pull/8) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+2. 🗣 Commented on [#8](https://github.com/troke12/osu-server-list/issues/8) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+3. 🎉 Merged PR [#7](https://github.com/troke12/osu-server-list/pull/7) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+4. 🗣 Commented on [#7](https://github.com/troke12/osu-server-list/issues/7) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+5. 🗣 Commented on [#42](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/42) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
 <!--END_SECTION:activity-->
 
 ## Status
