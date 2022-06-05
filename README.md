@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/osu-datenshi/upptime/issues/5) in [osu-datenshi/upptime](https://github.com/osu-datenshi/upptime)
-2. 🎉 Merged PR [#9](https://github.com/troke12/osu-server-list/pull/9) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-3. 🎉 Merged PR [#8](https://github.com/troke12/osu-server-list/pull/8) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-4. 🗣 Commented on [#8](https://github.com/troke12/osu-server-list/issues/8) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-5. 🎉 Merged PR [#7](https://github.com/troke12/osu-server-list/pull/7) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+1. ❗️ Closed issue [#26](https://github.com/osu-datenshi/hanayo/issues/26) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+2. 🗣 Commented on [#26](https://github.com/osu-datenshi/hanayo/issues/26) in [osu-datenshi/hanayo](https://github.com/osu-datenshi/hanayo)
+3. 🗣 Commented on [#5](https://github.com/osu-datenshi/upptime/issues/5) in [osu-datenshi/upptime](https://github.com/osu-datenshi/upptime)
+4. 🎉 Merged PR [#9](https://github.com/troke12/osu-server-list/pull/9) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+5. 🎉 Merged PR [#8](https://github.com/troke12/osu-server-list/pull/8) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
 <!--END_SECTION:activity-->
 
 ## Status
