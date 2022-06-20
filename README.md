@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/troke12/osu-server-list/pull/12) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-2. 🗣 Commented on [#12](https://github.com/troke12/osu-server-list/issues/12) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+1. ❗️ Opened issue [#107](https://github.com/MagmaGuy/EliteMobs/issues/107) in [MagmaGuy/EliteMobs](https://github.com/MagmaGuy/EliteMobs)
+2. 🎉 Merged PR [#12](https://github.com/troke12/osu-server-list/pull/12) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
 3. 🗣 Commented on [#12](https://github.com/troke12/osu-server-list/issues/12) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-4. 🗣 Commented on [#80](https://github.com/ivaaaan/smug/issues/80) in [ivaaaan/smug](https://github.com/ivaaaan/smug)
-5. 🎉 Merged PR [#214](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/214) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+4. 🗣 Commented on [#12](https://github.com/troke12/osu-server-list/issues/12) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+5. 🗣 Commented on [#80](https://github.com/ivaaaan/smug/issues/80) in [ivaaaan/smug](https://github.com/ivaaaan/smug)
 <!--END_SECTION:activity-->
 
 ## Status
