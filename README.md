@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#240](https://github.com/Tmeister/wp-api-jwt-auth/issues/240) in [Tmeister/wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth)
-2. 💪 Opened PR [#14](https://github.com/osu-datenshi/dap/pull/14) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
-3. 🎉 Merged PR [#14](https://github.com/troke12/osu-server-list/pull/14) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-4. 🎉 Merged PR [#217](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/217) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-5. ❗️ Opened issue [#107](https://github.com/MagmaGuy/EliteMobs/issues/107) in [MagmaGuy/EliteMobs](https://github.com/MagmaGuy/EliteMobs)
+1. 🎉 Merged PR [#15](https://github.com/troke12/osu-server-list/pull/15) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+2. ❗️ Opened issue [#240](https://github.com/Tmeister/wp-api-jwt-auth/issues/240) in [Tmeister/wp-api-jwt-auth](https://github.com/Tmeister/wp-api-jwt-auth)
+3. 💪 Opened PR [#14](https://github.com/osu-datenshi/dap/pull/14) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
+4. 🎉 Merged PR [#14](https://github.com/troke12/osu-server-list/pull/14) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+5. 🎉 Merged PR [#217](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/217) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 <!--END_SECTION:activity-->
 
 ## Status
