@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/Azuriom/AzLink/issues/17) in [Azuriom/AzLink](https://github.com/Azuriom/AzLink)
-2. ❗️ Opened issue [#205](https://github.com/Azuriom/Azuriom/issues/205) in [Azuriom/Azuriom](https://github.com/Azuriom/Azuriom)
-3. 🎉 Merged PR [#15](https://github.com/osu-datenshi/dap/pull/15) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
-4. 🎉 Merged PR [#2](https://github.com/troke12/jenkins-go/pull/2) in [troke12/jenkins-go](https://github.com/troke12/jenkins-go)
-5. 💪 Opened PR [#2](https://github.com/troke12/jenkins-go/pull/2) in [troke12/jenkins-go](https://github.com/troke12/jenkins-go)
+1. 🎉 Merged PR [#16](https://github.com/troke12/osu-server-list/pull/16) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+2. ❗️ Opened issue [#17](https://github.com/Azuriom/AzLink/issues/17) in [Azuriom/AzLink](https://github.com/Azuriom/AzLink)
+3. ❗️ Opened issue [#205](https://github.com/Azuriom/Azuriom/issues/205) in [Azuriom/Azuriom](https://github.com/Azuriom/Azuriom)
+4. 🎉 Merged PR [#15](https://github.com/osu-datenshi/dap/pull/15) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
+5. 🎉 Merged PR [#2](https://github.com/troke12/jenkins-go/pull/2) in [troke12/jenkins-go](https://github.com/troke12/jenkins-go)
 <!--END_SECTION:activity-->
 
 ## Status
