@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/troke12/osu-server-list/pull/17) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-2. 🎉 Merged PR [#16](https://github.com/troke12/osu-server-list/pull/16) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-3. ❗️ Opened issue [#17](https://github.com/Azuriom/AzLink/issues/17) in [Azuriom/AzLink](https://github.com/Azuriom/AzLink)
-4. ❗️ Opened issue [#205](https://github.com/Azuriom/Azuriom/issues/205) in [Azuriom/Azuriom](https://github.com/Azuriom/Azuriom)
-5. 🎉 Merged PR [#15](https://github.com/osu-datenshi/dap/pull/15) in [osu-datenshi/dap](https://github.com/osu-datenshi/dap)
+1. 🎉 Merged PR [#18](https://github.com/troke12/osu-server-list/pull/18) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+2. 🎉 Merged PR [#17](https://github.com/troke12/osu-server-list/pull/17) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+3. 🎉 Merged PR [#16](https://github.com/troke12/osu-server-list/pull/16) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+4. ❗️ Opened issue [#17](https://github.com/Azuriom/AzLink/issues/17) in [Azuriom/AzLink](https://github.com/Azuriom/AzLink)
+5. ❗️ Opened issue [#205](https://github.com/Azuriom/Azuriom/issues/205) in [Azuriom/Azuriom](https://github.com/Azuriom/Azuriom)
 <!--END_SECTION:activity-->
 
 ## Status
