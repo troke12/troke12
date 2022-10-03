@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#220](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/220) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-2. ❌ Closed PR [#219](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/219) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-3. 🗣 Commented on [#219](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/219) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-4. 🎉 Merged PR [#20](https://github.com/troke12/osu-server-list/pull/20) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-5. 🎉 Merged PR [#19](https://github.com/troke12/osu-server-list/pull/19) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+1. 🎉 Merged PR [#2](https://github.com/troke12/jumlah-angka/pull/2) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+2. 🎉 Merged PR [#220](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/220) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+3. ❌ Closed PR [#219](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/219) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+4. 🗣 Commented on [#219](https://github.com/GitIndonesia/awesome-indonesia-repo/issues/219) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+5. 🎉 Merged PR [#20](https://github.com/troke12/osu-server-list/pull/20) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
 <!--END_SECTION:activity-->
 
 ## Status
