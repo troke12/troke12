@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/troke12/jumlah-angka/pull/12) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-2. ❌ Closed PR [#10](https://github.com/troke12/jumlah-angka/pull/10) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-3. ❌ Closed PR [#1](https://github.com/troke12/jumlah-angka/pull/1) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-4. ❌ Closed PR [#11](https://github.com/troke12/jumlah-angka/pull/11) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-5. 🎉 Merged PR [#9](https://github.com/troke12/jumlah-angka/pull/9) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+1. ❌ Closed PR [#13](https://github.com/troke12/jumlah-angka/pull/13) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+2. 🎉 Merged PR [#12](https://github.com/troke12/jumlah-angka/pull/12) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+3. ❌ Closed PR [#10](https://github.com/troke12/jumlah-angka/pull/10) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+4. ❌ Closed PR [#1](https://github.com/troke12/jumlah-angka/pull/1) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+5. ❌ Closed PR [#11](https://github.com/troke12/jumlah-angka/pull/11) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
 <!--END_SECTION:activity-->
 
 ## Status
