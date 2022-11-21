@@ -18,6 +18,10 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 5. ❌ Closed PR [#13](https://github.com/troke12/jumlah-angka/pull/13) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
 <!--END_SECTION:activity-->
 
+## Holopin
+
+[![@troke's Holopin board](https://holopin.me/troke)](https://holopin.io/@troke)
+
 ## Status
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=troke12)](https://github.com/LordDashMe/github-contribution-stats/)
