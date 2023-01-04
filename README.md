@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6716](https://github.com/apache/cloudstack/issues/6716) in [apache/cloudstack](https://github.com/apache/cloudstack)
-2. ❌ Closed PR [#16](https://github.com/troke12/jumlah-angka/pull/16) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-3. 🗣 Commented on [#16](https://github.com/troke12/jumlah-angka/issues/16) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-4. 🎉 Merged PR [#15](https://github.com/troke12/jumlah-angka/pull/15) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-5. 🎉 Merged PR [#14](https://github.com/troke12/jumlah-angka/pull/14) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+1. 🗣 Commented on [#2](https://github.com/troke12/MikrotikToDiscord/issues/2) in [troke12/MikrotikToDiscord](https://github.com/troke12/MikrotikToDiscord)
+2. 🗣 Commented on [#6716](https://github.com/apache/cloudstack/issues/6716) in [apache/cloudstack](https://github.com/apache/cloudstack)
+3. ❌ Closed PR [#16](https://github.com/troke12/jumlah-angka/pull/16) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+4. 🗣 Commented on [#16](https://github.com/troke12/jumlah-angka/issues/16) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+5. 🎉 Merged PR [#15](https://github.com/troke12/jumlah-angka/pull/15) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
 <!--END_SECTION:activity-->
 
 ## Holopin
