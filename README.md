@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/troke12/osu-server-list/issues/21) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-2. 🗣 Commented on [#2](https://github.com/troke12/MikrotikToDiscord/issues/2) in [troke12/MikrotikToDiscord](https://github.com/troke12/MikrotikToDiscord)
-3. 🗣 Commented on [#6716](https://github.com/apache/cloudstack/issues/6716) in [apache/cloudstack](https://github.com/apache/cloudstack)
-4. ❌ Closed PR [#16](https://github.com/troke12/jumlah-angka/pull/16) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
-5. 🗣 Commented on [#16](https://github.com/troke12/jumlah-angka/issues/16) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
+1. 🎉 Merged PR [#21](https://github.com/troke12/osu-server-list/pull/21) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+2. 🗣 Commented on [#21](https://github.com/troke12/osu-server-list/issues/21) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+3. 🗣 Commented on [#2](https://github.com/troke12/MikrotikToDiscord/issues/2) in [troke12/MikrotikToDiscord](https://github.com/troke12/MikrotikToDiscord)
+4. 🗣 Commented on [#6716](https://github.com/apache/cloudstack/issues/6716) in [apache/cloudstack](https://github.com/apache/cloudstack)
+5. ❌ Closed PR [#16](https://github.com/troke12/jumlah-angka/pull/16) in [troke12/jumlah-angka](https://github.com/troke12/jumlah-angka)
 <!--END_SECTION:activity-->
 
 ## Holopin
