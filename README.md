@@ -1,4 +1,4 @@
-![troke](https://cardivo.vercel.app/api?name=I%20Made%20Ocy%20Darma%20Putra&description=Just%20pull-stack%20developer&image=https://avatars.githubusercontent.com/u/10250068?v=4&backgroundColor=%23DE834D)
+![troke](https://cardivo.vercel.app/api?name=I%20Made%20Ocy%20Darma%20Putra&description=Just%20pull-stack%20developer&image=https://avatars.githubusercontent.com/u/10250068?v=4&backgroundColor=%B22222)
 
 ### Hi there 👋
 
