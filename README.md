@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
-2. 🗣 Commented on [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
+1. 🗣 Commented on [#2](https://github.com/troke12/BlueMi/issues/2) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
+2. ❗️ Closed issue [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
 3. 🗣 Commented on [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
-4. ❗️ Opened issue [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
-5. ❗️ Opened issue [#3](https://github.com/troke12/MikrotikToDiscord/issues/3) in [troke12/MikrotikToDiscord](https://github.com/troke12/MikrotikToDiscord)
+4. 🗣 Commented on [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
+5. ❗️ Opened issue [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
 <!--END_SECTION:activity-->
 
 ## Holopin
