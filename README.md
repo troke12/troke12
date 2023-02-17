@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/troke12/owasp-bricks/pull/1) in [troke12/owasp-bricks](https://github.com/troke12/owasp-bricks)
-2. 💪 Opened PR [#1](https://github.com/troke12/owasp-bricks/pull/1) in [troke12/owasp-bricks](https://github.com/troke12/owasp-bricks)
-3. 🗣 Commented on [#2](https://github.com/troke12/BlueMi/issues/2) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
-4. ❗️ Closed issue [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
-5. 🗣 Commented on [#7137](https://github.com/apache/cloudstack/issues/7137) in [apache/cloudstack](https://github.com/apache/cloudstack)
+1. 🎉 Merged PR [#2](https://github.com/troke12/owasp-bricks/pull/2) in [troke12/owasp-bricks](https://github.com/troke12/owasp-bricks)
+2. 💪 Opened PR [#2](https://github.com/troke12/owasp-bricks/pull/2) in [troke12/owasp-bricks](https://github.com/troke12/owasp-bricks)
+3. 🎉 Merged PR [#1](https://github.com/troke12/owasp-bricks/pull/1) in [troke12/owasp-bricks](https://github.com/troke12/owasp-bricks)
+4. 💪 Opened PR [#1](https://github.com/troke12/owasp-bricks/pull/1) in [troke12/owasp-bricks](https://github.com/troke12/owasp-bricks)
+5. 🗣 Commented on [#2](https://github.com/troke12/BlueMi/issues/2) in [troke12/BlueMi](https://github.com/troke12/BlueMi)
 <!--END_SECTION:activity-->
 
 ## Holopin
