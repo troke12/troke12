@@ -14,8 +14,8 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 1. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
 2. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
 3. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
-4. ❗️ Opened issue [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
-5. 🎉 Merged PR [#4](https://github.com/troke12/owasp-bricks/pull/4) in [troke12/owasp-bricks](https://github.com/troke12/owasp-bricks)
+4. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
+5. ❗️ Opened issue [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
 <!--END_SECTION:activity-->
 
 ## Holopin
