@@ -12,7 +12,7 @@ My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working a
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
-2. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
+2. 🎉 Merged PR [#3](https://github.com/troke12/awesome-beatmaps/pull/3) in [troke12/awesome-beatmaps](https://github.com/troke12/awesome-beatmaps)
 3. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
 4. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
 5. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
