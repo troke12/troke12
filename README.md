@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is I Made Ocy Darma Putra, 21. from Bali, Indonesia, currently working as DevOps Engineer in [IndoChat Indonesia](https://indochat.co.id) Jakarta, and doing some hobby like gaming, editing, and others.
+My name is I Made Ocy Darma Putra, 22. from Bali, Indonesia, currently working as DevOps Engineer in [ITSEC Asia](https://itsec.group) Jakarta, and doing some hobby like gaming, editing, and others.
 
 ## Contact me
 
