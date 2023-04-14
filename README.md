@@ -11,11 +11,11 @@ My name is I Made Ocy Darma Putra, 22. from Bali, Indonesia, currently working a
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3771](https://github.com/opensearch-project/documentation-website/pull/3771) in [opensearch-project/documentation-website](https://github.com/opensearch-project/documentation-website)
-2. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
+1. 🎉 Merged PR [#22](https://github.com/troke12/osu-server-list/pull/22) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
+2. 💪 Opened PR [#3771](https://github.com/opensearch-project/documentation-website/pull/3771) in [opensearch-project/documentation-website](https://github.com/opensearch-project/documentation-website)
 3. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
 4. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
-5. 🎉 Merged PR [#3](https://github.com/troke12/awesome-beatmaps/pull/3) in [troke12/awesome-beatmaps](https://github.com/troke12/awesome-beatmaps)
+5. 🗣 Commented on [#7317](https://github.com/apache/cloudstack/issues/7317) in [apache/cloudstack](https://github.com/apache/cloudstack)
 <!--END_SECTION:activity-->
 
 ## Holopin
