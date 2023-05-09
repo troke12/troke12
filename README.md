@@ -1,6 +1,6 @@
 <!--![troke](https://cardivo.vercel.app/api?name=I%20Made%20Ocy%20Darma%20Putra&description=Just%20pull-stack%20developer&fontColor=%23DCDCDC&image=https://avatars.githubusercontent.com/u/10250068?v=4&backgroundColor=%2336454F&pattern=topography&opacity=0.2)-->
 
-### Hi there 👋
+## Hi there 👋
 
 My name is I Made Ocy Darma Putra, 22. from Bali, Indonesia, currently working as DevOps Engineer in [ITSEC Asia](https://itsec.group) Jakarta, and doing some hobby like gaming, editing, and others.
 
