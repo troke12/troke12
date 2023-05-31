@@ -14,8 +14,8 @@ My name is I Made Ocy Darma Putra, 22 years old from Bali, Indonesia, working as
 1. 🗣 Commented on [#1](https://github.com/osu-datenshi/.github/issues/1) in [osu-datenshi/.github](https://github.com/osu-datenshi/.github)
 2. 🗣 Commented on [#24](https://github.com/troke12/osu-server-list/issues/24) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
 3. 🎉 Merged PR [#23](https://github.com/troke12/osu-server-list/pull/23) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-4. 🎉 Merged PR [#22](https://github.com/troke12/osu-server-list/pull/22) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
-5. 💪 Opened PR [#3771](https://github.com/opensearch-project/documentation-website/pull/3771) in [opensearch-project/documentation-website](https://github.com/opensearch-project/documentation-website)
+4. 🚀 Published release [Zoom level 0-8](https://github.com/Zoom level 0-8) in [troke12/tiles-crawler](https://github.com/troke12/tiles-crawler)
+5. 🎉 Merged PR [#22](https://github.com/troke12/osu-server-list/pull/22) in [troke12/osu-server-list](https://github.com/troke12/osu-server-list)
 <!--END_SECTION:activity-->
 
 <details>
