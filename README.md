@@ -1,6 +1,4 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+## "Dedication sees dreams come true. -Kobe"
 
 <details>
   <summary><h3>More status</h3></summary>
